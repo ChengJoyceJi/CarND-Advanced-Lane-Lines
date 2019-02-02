@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cf8cd19-e67e-43e8-a450-8f786034546c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/P2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/P2-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/P2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/P2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge_video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/harder_challenge_video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_video_output.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/writeup_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/writeup_template.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,22 +25,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="jpg" value="1" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="198" />
+          <entry key="md" value="4377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="198" />
+          <entry key="Markdown" value="4377" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/writeup_template.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+              <first_editor relative-caret-position="1725">
+                <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,6 +62,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>video1</find>
+      <find>P2.i</find>
+      <find>color_and_gradient</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,6 +120,11 @@
               <item name="CarND-Advanced-Lane-Lines" type="b2602c69:ProjectViewProjectNode" />
               <item name="CarND-Advanced-Lane-Lines" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarND-Advanced-Lane-Lines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarND-Advanced-Lane-Lines" type="462c0819:PsiDirectoryNode" />
+              <item name="output_images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,11 +199,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/camera_cal/calibration1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/writeup_template.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <first_editor relative-caret-position="1725">
+            <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
           </first_editor>
           <second_editor />
         </state>
