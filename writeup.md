@@ -63,7 +63,13 @@ I applied distortion correction to the test image. I applied `cv2.undistort()` w
 
 The code for this step is located in the `Color and Gradients` section of "P2.ipynb".
 
-I used a combination of color and gradient thresholds to generate a binary image. For color transformation, I applied a threshold to the S(Saturation) space because the S channel picks up the lines well. For gradients, I used `cv2.Sobel` and then got the absolute value to accentuate lines away from horizontal. Here's an example of my output for this step.
+I used a combination of color and gradient thresholds to generate a binary image. 
+For color transformation, I applied a threshold to the S(Saturation) space because the S channel picks up the lines well, and applied a threshold to the R(Red) space. 
+For gradients, I used `cv2.Sobel` and then got the absolute value to accentuate lines away from horizontal.
+
+The I combined the three results as if S channel or gradient is activated, and meanwhile R channel is activated, activate the pixel.
+
+Here's an example of my output for this step.
 
 ![alt text][color_and_gradient]
 

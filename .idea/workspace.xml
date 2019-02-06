@@ -5,7 +5,17 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/P2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/P2-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/P2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/P2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writeup_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/writeup_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/new_warp_test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output_images/new_warp_test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/output_with_text_test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output_images/output_with_text_test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/perspective_transformed_test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output_images/perspective_transformed_test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/save_output_here.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/sliding_window2_test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output_images/sliding_window2_test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/sliding_window_test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output_images/sliding_window_test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_images/thresholded_binary_test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output_images/thresholded_binary_test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_videos_output/challenge_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/test_videos_output/challenge_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_videos_output/harder_challenge_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/test_videos_output/harder_challenge_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_videos_output/project_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/test_videos_output/project_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writeup.md" beforeDir="false" afterPath="$PROJECT_DIR$/writeup.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,44 +27,47 @@
     <session id="1195522393">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="1" />
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="4377" />
+          <entry key="md" value="4607" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="4377" />
+          <entry key="Markdown" value="4607" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/writeup_template.md">
+        <entry file="file://$PROJECT_DIR$/writeup.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1725">
-                <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+              <first_editor relative-caret-position="418">
+                <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,6 +90,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/writeup_template.md" />
+        <option value="$PROJECT_DIR$/writeup.md" />
       </list>
     </option>
   </component>
@@ -86,7 +100,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -169,7 +183,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1695279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,11 +216,19 @@
     <entry file="file://$PROJECT_DIR$/camera_cal/calibration1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/writeup_template.md">
+    <entry file="file://$PROJECT_DIR$/writeup_template.md" />
+    <entry file="file://$USER_HOME$/Downloads/CarND-Advanced_lane_lines/P2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writeup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1725">
-            <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+          <first_editor relative-caret-position="418">
+            <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
           </first_editor>
           <second_editor />
         </state>
